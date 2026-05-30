@@ -35,4 +35,12 @@ identificacao da queixa
 
     ROR00000000045611916
 
-    
+---
+
+| Item                    | Dado                                         |
+| ----------------------- | -------------------------------------------- |
+| Reclamação CP           | **ROR00000000045611916**                     |
+| Apólice Caravela        | **100138637**                                |
+| Entidade/contacto saúde | **TrueClinic / gestor de saúde — 226164122** |
+| Próximo interlocutor    | **RH / Sofia Pires**                         |
+
